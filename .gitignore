@@ -1,0 +1,24 @@
+# Dependencies
+/vendor/
+
+# Composer
+composer.lock
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment overrides
+.env
+*.local.php
+
+# Uploads / generated (keep folder, ignore contents)
+/uploads/*
+!uploads/.gitkeep
+/profileimages/*
+!profileimages/.gitkeep
+
+# PHP cache
+*.opcache
+*.cache
