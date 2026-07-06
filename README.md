@@ -87,7 +87,7 @@ Precision Car Zone is a service center platform that lets customers book vehicle
 
 This project was developed as the **Final Project for the Higher Diploma in Computing and Software Engineering**, in collaboration with my colleagues from the **ICBT Kandy Campus**:
 
-- **shadowORIGINAL** (project owner)
+- **Kalana Wickramasinghe** (Me)
 - **Avishka Sahan**
 - **Thenuka Kulathunga**
 - **Kalana Kavinda**
